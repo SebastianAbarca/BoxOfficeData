@@ -1,0 +1,801 @@
+Movie,Year,Genres
+Mission: Impossible II,2000,Adventure
+Mission: Impossible II,2000,Action
+Mission: Impossible II,2000,Thriller
+Gladiator,2000,Action
+Gladiator,2000,Drama
+Gladiator,2000,Adventure
+Cast Away,2000,Adventure
+Cast Away,2000,Drama
+What Women Want,2000,Comedy
+What Women Want,2000,Romance
+Dinosaur,2000,Animation
+Dinosaur,2000,Family
+Dinosaur,2000,Adventure
+How the Grinch Stole Christmas,2000,Family
+How the Grinch Stole Christmas,2000,Comedy
+How the Grinch Stole Christmas,2000,Fantasy
+Meet the Parents,2000,Comedy
+Meet the Parents,2000,Romance
+The Perfect Storm,2000,Action
+The Perfect Storm,2000,Adventure
+The Perfect Storm,2000,Drama
+The Perfect Storm,2000,Thriller
+X-Men,2000,Adventure
+X-Men,2000,Action
+X-Men,2000,Science Fiction
+What Lies Beneath,2000,Drama
+What Lies Beneath,2000,Horror
+What Lies Beneath,2000,Mystery
+What Lies Beneath,2000,Thriller
+Harry Potter and the Sorcerer's Stone,2001,Adventure
+Harry Potter and the Sorcerer's Stone,2001,Fantasy
+The Lord of the Rings: The Fellowship of the Ring,2001,Adventure
+The Lord of the Rings: The Fellowship of the Ring,2001,Fantasy
+The Lord of the Rings: The Fellowship of the Ring,2001,Action
+"Monsters, Inc.",2001,Animation
+"Monsters, Inc.",2001,Comedy
+"Monsters, Inc.",2001,Family
+Shrek,2001,Animation
+Shrek,2001,Comedy
+Shrek,2001,Fantasy
+Shrek,2001,Adventure
+Shrek,2001,Family
+Ocean's Eleven,2001,Thriller
+Ocean's Eleven,2001,Crime
+Pearl Harbor,2001,War
+Pearl Harbor,2001,History
+Pearl Harbor,2001,Romance
+Pearl Harbor,2001,Drama
+Pearl Harbor,2001,Action
+The Mummy Returns,2001,Adventure
+The Mummy Returns,2001,Action
+The Mummy Returns,2001,Fantasy
+Jurassic Park III,2001,Adventure
+Jurassic Park III,2001,Action
+Jurassic Park III,2001,Thriller
+Jurassic Park III,2001,Science Fiction
+Planet of the Apes,2001,Thriller
+Planet of the Apes,2001,Science Fiction
+Planet of the Apes,2001,Action
+Planet of the Apes,2001,Adventure
+Hannibal,2001,Crime
+Hannibal,2001,Drama
+Hannibal,2001,Thriller
+The Lord of the Rings: The Two Towers,2002,Adventure
+The Lord of the Rings: The Two Towers,2002,Fantasy
+The Lord of the Rings: The Two Towers,2002,Action
+Harry Potter and the Chamber of Secrets,2002,Adventure
+Harry Potter and the Chamber of Secrets,2002,Fantasy
+Spider-Man,2002,Action
+Spider-Man,2002,Science Fiction
+Star Wars: Episode II - Attack of the Clones,2002,Adventure
+Star Wars: Episode II - Attack of the Clones,2002,Action
+Star Wars: Episode II - Attack of the Clones,2002,Science Fiction
+Men in Black II,2002,Action
+Men in Black II,2002,Comedy
+Men in Black II,2002,Science Fiction
+Die Another Day,2002,Adventure
+Die Another Day,2002,Action
+Die Another Day,2002,Thriller
+Signs,2002,Drama
+Signs,2002,Thriller
+Signs,2002,Science Fiction
+Signs,2002,Mystery
+Ice Age,2002,Animation
+Ice Age,2002,Comedy
+Ice Age,2002,Family
+Ice Age,2002,Adventure
+My Big Fat Greek Wedding,2002,Comedy
+My Big Fat Greek Wedding,2002,Drama
+My Big Fat Greek Wedding,2002,Romance
+Minority Report,2002,Science Fiction
+Minority Report,2002,Action
+Minority Report,2002,Thriller
+The Lord of the Rings: The Return of the King,2003,Adventure
+The Lord of the Rings: The Return of the King,2003,Fantasy
+The Lord of the Rings: The Return of the King,2003,Action
+Finding Nemo,2003,Animation
+Finding Nemo,2003,Family
+The Matrix Reloaded,2003,Adventure
+The Matrix Reloaded,2003,Action
+The Matrix Reloaded,2003,Thriller
+The Matrix Reloaded,2003,Science Fiction
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,Adventure
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,Fantasy
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,Action
+Bruce Almighty,2003,Fantasy
+Bruce Almighty,2003,Comedy
+The Last Samurai,2003,Drama
+The Last Samurai,2003,Action
+The Last Samurai,2003,War
+Terminator 3: Rise of the Machines,2003,Action
+Terminator 3: Rise of the Machines,2003,Thriller
+Terminator 3: Rise of the Machines,2003,Science Fiction
+The Matrix Revolutions,2003,Adventure
+The Matrix Revolutions,2003,Action
+The Matrix Revolutions,2003,Thriller
+The Matrix Revolutions,2003,Science Fiction
+X2: X-Men United,2003,Adventure
+X2: X-Men United,2003,Action
+X2: X-Men United,2003,Science Fiction
+Bad Boys II,2003,Action
+Bad Boys II,2003,Crime
+Bad Boys II,2003,Comedy
+Shrek 2,2004,Animation
+Shrek 2,2004,Family
+Shrek 2,2004,Comedy
+Shrek 2,2004,Fantasy
+Shrek 2,2004,Adventure
+Shrek 2,2004,Romance
+Harry Potter and the Prisoner of Azkaban,2004,Adventure
+Harry Potter and the Prisoner of Azkaban,2004,Fantasy
+Spider-Man 2,2004,Action
+Spider-Man 2,2004,Adventure
+Spider-Man 2,2004,Science Fiction
+The Incredibles,2004,Action
+The Incredibles,2004,Adventure
+The Incredibles,2004,Animation
+The Incredibles,2004,Family
+The Passion of the Christ,2004,Drama
+The Day After Tomorrow,2004,Action
+The Day After Tomorrow,2004,Adventure
+The Day After Tomorrow,2004,Science Fiction
+The Day After Tomorrow,2004,Thriller
+Meet the Fockers,2004,Comedy
+Meet the Fockers,2004,Romance
+Troy,2004,Adventure
+Troy,2004,History
+Troy,2004,War
+Shark Tale,2004,Animation
+Shark Tale,2004,Action
+Shark Tale,2004,Comedy
+Shark Tale,2004,Family
+Ocean's Twelve,2004,Thriller
+Ocean's Twelve,2004,Crime
+Harry Potter and the Goblet of Fire,2005,Adventure
+Harry Potter and the Goblet of Fire,2005,Fantasy
+Star Wars: Episode III - Revenge of the Sith,2005,Adventure
+Star Wars: Episode III - Revenge of the Sith,2005,Action
+Star Wars: Episode III - Revenge of the Sith,2005,Science Fiction
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Adventure
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Family
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Fantasy
+War of the Worlds,2005,Adventure
+War of the Worlds,2005,Thriller
+War of the Worlds,2005,Science Fiction
+King Kong,2005,Adventure
+King Kong,2005,Drama
+King Kong,2005,Action
+Madagascar,2005,Family
+Madagascar,2005,Animation
+Madagascar,2005,Adventure
+Madagascar,2005,Comedy
+Mr. & Mrs. Smith,2005,Action
+Mr. & Mrs. Smith,2005,Comedy
+Mr. & Mrs. Smith,2005,Drama
+Mr. & Mrs. Smith,2005,Thriller
+Charlie and the Chocolate Factory,2005,Adventure
+Charlie and the Chocolate Factory,2005,Comedy
+Charlie and the Chocolate Factory,2005,Family
+Charlie and the Chocolate Factory,2005,Fantasy
+Batman Begins,2005,Action
+Batman Begins,2005,Crime
+Batman Begins,2005,Drama
+Hitch,2005,Comedy
+Hitch,2005,Drama
+Hitch,2005,Romance
+Pirates of the Caribbean: Dead Man's Chest,2006,Adventure
+Pirates of the Caribbean: Dead Man's Chest,2006,Fantasy
+Pirates of the Caribbean: Dead Man's Chest,2006,Action
+The Da Vinci Code,2006,Thriller
+The Da Vinci Code,2006,Mystery
+Ice Age: The Meltdown,2006,Animation
+Ice Age: The Meltdown,2006,Family
+Ice Age: The Meltdown,2006,Comedy
+Ice Age: The Meltdown,2006,Adventure
+Casino Royale,2006,Adventure
+Casino Royale,2006,Action
+Casino Royale,2006,Thriller
+Night at the Museum,2006,Action
+Night at the Museum,2006,Adventure
+Night at the Museum,2006,Comedy
+Night at the Museum,2006,Family
+Night at the Museum,2006,Fantasy
+Cars,2006,Animation
+Cars,2006,Adventure
+Cars,2006,Comedy
+Cars,2006,Family
+X-Men: The Last Stand,2006,Adventure
+X-Men: The Last Stand,2006,Action
+X-Men: The Last Stand,2006,Science Fiction
+X-Men: The Last Stand,2006,Thriller
+Mission: Impossible III,2006,Adventure
+Mission: Impossible III,2006,Action
+Mission: Impossible III,2006,Thriller
+Superman Returns,2006,Science Fiction
+Superman Returns,2006,Action
+Superman Returns,2006,Adventure
+Happy Feet,2006,Animation
+Happy Feet,2006,Comedy
+Happy Feet,2006,Family
+Pirates of the Caribbean: At World's End,2007,Adventure
+Pirates of the Caribbean: At World's End,2007,Fantasy
+Pirates of the Caribbean: At World's End,2007,Action
+Harry Potter and the Order of the Phoenix,2007,Adventure
+Harry Potter and the Order of the Phoenix,2007,Fantasy
+Spider-Man 3,2007,Action
+Spider-Man 3,2007,Adventure
+Spider-Man 3,2007,Science Fiction
+Shrek the Third,2007,Fantasy
+Shrek the Third,2007,Adventure
+Shrek the Third,2007,Animation
+Shrek the Third,2007,Comedy
+Shrek the Third,2007,Family
+Transformers,2007,Adventure
+Transformers,2007,Science Fiction
+Transformers,2007,Action
+Ratatouille,2007,Animation
+Ratatouille,2007,Comedy
+Ratatouille,2007,Family
+Ratatouille,2007,Fantasy
+I Am Legend,2007,Drama
+I Am Legend,2007,Science Fiction
+I Am Legend,2007,Thriller
+The Simpsons Movie,2007,Animation
+The Simpsons Movie,2007,Comedy
+The Simpsons Movie,2007,Family
+National Treasure: Book of Secrets,2007,Action
+National Treasure: Book of Secrets,2007,Adventure
+National Treasure: Book of Secrets,2007,Mystery
+National Treasure: Book of Secrets,2007,Thriller
+300,2007,Action
+300,2007,Adventure
+300,2007,War
+The Dark Knight,2008,Drama
+The Dark Knight,2008,Action
+The Dark Knight,2008,Crime
+The Dark Knight,2008,Thriller
+Indiana Jones and the Kingdom of the Crystal Skull,2008,Adventure
+Indiana Jones and the Kingdom of the Crystal Skull,2008,Action
+Kung Fu Panda,2008,Action
+Kung Fu Panda,2008,Adventure
+Kung Fu Panda,2008,Animation
+Kung Fu Panda,2008,Family
+Kung Fu Panda,2008,Comedy
+Hancock,2008,Fantasy
+Hancock,2008,Action
+Mamma Mia!,2008,Comedy
+Mamma Mia!,2008,Romance
+Madagascar: Escape 2 Africa,2008,Family
+Madagascar: Escape 2 Africa,2008,Adventure
+Madagascar: Escape 2 Africa,2008,Animation
+Madagascar: Escape 2 Africa,2008,Comedy
+Quantum of Solace,2008,Adventure
+Quantum of Solace,2008,Action
+Quantum of Solace,2008,Thriller
+Quantum of Solace,2008,Crime
+Iron Man,2008,Action
+Iron Man,2008,Science Fiction
+Iron Man,2008,Adventure
+WALL·E,2008,Drama
+WALL·E,2008,War
+WALL·E,2008,History
+The Chronicles of Narnia: Prince Caspian,2008,Adventure
+The Chronicles of Narnia: Prince Caspian,2008,Family
+The Chronicles of Narnia: Prince Caspian,2008,Fantasy
+Avatar,2009,Action
+Avatar,2009,Adventure
+Avatar,2009,Fantasy
+Avatar,2009,Science Fiction
+Harry Potter and the Half-Blood Prince,2009,Adventure
+Harry Potter and the Half-Blood Prince,2009,Fantasy
+Ice Age: Dawn of the Dinosaurs,2009,Animation
+Ice Age: Dawn of the Dinosaurs,2009,Comedy
+Ice Age: Dawn of the Dinosaurs,2009,Family
+Ice Age: Dawn of the Dinosaurs,2009,Adventure
+Transformers: Revenge of the Fallen,2009,Science Fiction
+Transformers: Revenge of the Fallen,2009,Action
+Transformers: Revenge of the Fallen,2009,Adventure
+2012,2009,Action
+2012,2009,Adventure
+2012,2009,Science Fiction
+Up,2009,Animation
+Up,2009,Comedy
+Up,2009,Family
+Up,2009,Adventure
+The Twilight Saga: New Moon,2009,Adventure
+The Twilight Saga: New Moon,2009,Fantasy
+The Twilight Saga: New Moon,2009,Drama
+The Twilight Saga: New Moon,2009,Romance
+Sherlock Holmes,2009,Action
+Sherlock Holmes,2009,Adventure
+Sherlock Holmes,2009,Crime
+Sherlock Holmes,2009,Mystery
+Angels & Demons,2009,Thriller
+Angels & Demons,2009,Mystery
+The Hangover,2009,Comedy
+Toy Story 3,2010,Animation
+Toy Story 3,2010,Family
+Toy Story 3,2010,Comedy
+Alice in Wonderland,2010,Family
+Alice in Wonderland,2010,Fantasy
+Alice in Wonderland,2010,Adventure
+Harry Potter and the Deathly Hallows: Part 1,2010,Adventure
+Harry Potter and the Deathly Hallows: Part 1,2010,Fantasy
+Inception,2010,Action
+Inception,2010,Science Fiction
+Inception,2010,Adventure
+Shrek Forever After,2010,Comedy
+Shrek Forever After,2010,Adventure
+Shrek Forever After,2010,Fantasy
+Shrek Forever After,2010,Animation
+Shrek Forever After,2010,Family
+The Twilight Saga: Eclipse,2010,Adventure
+The Twilight Saga: Eclipse,2010,Fantasy
+The Twilight Saga: Eclipse,2010,Drama
+The Twilight Saga: Eclipse,2010,Romance
+Iron Man 2,2010,Adventure
+Iron Man 2,2010,Action
+Iron Man 2,2010,Science Fiction
+Tangled,2010,Animation
+Tangled,2010,Family
+Despicable Me,2010,Animation
+Despicable Me,2010,Family
+Despicable Me,2010,Comedy
+How to Train Your Dragon,2010,Fantasy
+How to Train Your Dragon,2010,Adventure
+How to Train Your Dragon,2010,Animation
+How to Train Your Dragon,2010,Family
+Harry Potter and the Deathly Hallows: Part 2,2011,Fantasy
+Harry Potter and the Deathly Hallows: Part 2,2011,Adventure
+Transformers: Dark of the Moon,2011,Action
+Transformers: Dark of the Moon,2011,Science Fiction
+Transformers: Dark of the Moon,2011,Adventure
+Pirates of the Caribbean: On Stranger Tides,2011,Adventure
+Pirates of the Caribbean: On Stranger Tides,2011,Action
+Pirates of the Caribbean: On Stranger Tides,2011,Fantasy
+The Twilight Saga: Breaking Dawn - Part 1,2011,Adventure
+The Twilight Saga: Breaking Dawn - Part 1,2011,Fantasy
+The Twilight Saga: Breaking Dawn - Part 1,2011,Romance
+Mission: Impossible - Ghost Protocol,2011,Action
+Mission: Impossible - Ghost Protocol,2011,Thriller
+Mission: Impossible - Ghost Protocol,2011,Adventure
+Kung Fu Panda 2,2011,Animation
+Kung Fu Panda 2,2011,Family
+Kung Fu Panda 2,2011,Comedy
+Fast Five,2011,Action
+Fast Five,2011,Thriller
+Fast Five,2011,Crime
+The Hangover Part II,2011,Comedy
+The Smurfs,2011,Animation
+The Smurfs,2011,Family
+The Smurfs,2011,Adventure
+The Smurfs,2011,Comedy
+The Smurfs,2011,Fantasy
+Cars 2,2011,Animation
+Cars 2,2011,Family
+Cars 2,2011,Adventure
+Cars 2,2011,Comedy
+The Avengers,2012,Science Fiction
+The Avengers,2012,Action
+The Avengers,2012,Adventure
+Skyfall,2012,Action
+Skyfall,2012,Adventure
+Skyfall,2012,Thriller
+The Dark Knight Rises,2012,Action
+The Dark Knight Rises,2012,Crime
+The Dark Knight Rises,2012,Drama
+The Dark Knight Rises,2012,Thriller
+The Hobbit: An Unexpected Journey,2012,Adventure
+The Hobbit: An Unexpected Journey,2012,Fantasy
+The Hobbit: An Unexpected Journey,2012,Action
+Ice Age: Continental Drift,2012,Animation
+Ice Age: Continental Drift,2012,Comedy
+Ice Age: Continental Drift,2012,Adventure
+Ice Age: Continental Drift,2012,Family
+The Twilight Saga: Breaking Dawn - Part 2,2012,Adventure
+The Twilight Saga: Breaking Dawn - Part 2,2012,Fantasy
+The Twilight Saga: Breaking Dawn - Part 2,2012,Drama
+The Twilight Saga: Breaking Dawn - Part 2,2012,Romance
+The Amazing Spider-Man,2012,Action
+The Amazing Spider-Man,2012,Adventure
+The Amazing Spider-Man,2012,Science Fiction
+Madagascar 3: Europe's Most Wanted,2012,Animation
+Madagascar 3: Europe's Most Wanted,2012,Family
+Madagascar 3: Europe's Most Wanted,2012,Comedy
+Madagascar 3: Europe's Most Wanted,2012,Adventure
+The Hunger Games,2012,Science Fiction
+The Hunger Games,2012,Adventure
+The Hunger Games,2012,Fantasy
+Men in Black³,2012,Action
+Men in Black³,2012,Adventure
+Men in Black³,2012,Comedy
+Men in Black³,2012,Science Fiction
+Frozen,2013,Animation
+Frozen,2013,Family
+Frozen,2013,Adventure
+Frozen,2013,Fantasy
+Iron Man 3,2013,Action
+Iron Man 3,2013,Adventure
+Iron Man 3,2013,Science Fiction
+Despicable Me 2,2013,Animation
+Despicable Me 2,2013,Comedy
+Despicable Me 2,2013,Family
+The Hobbit: The Desolation of Smaug,2013,Fantasy
+The Hobbit: The Desolation of Smaug,2013,Adventure
+The Hobbit: The Desolation of Smaug,2013,Action
+The Hunger Games: Catching Fire,2013,Adventure
+The Hunger Games: Catching Fire,2013,Action
+The Hunger Games: Catching Fire,2013,Science Fiction
+Fast & Furious 6,2013,Action
+Fast & Furious 6,2013,Thriller
+Fast & Furious 6,2013,Crime
+Monsters University,2013,Animation
+Monsters University,2013,Family
+Gravity,2013,Science Fiction
+Gravity,2013,Thriller
+Gravity,2013,Drama
+Man of Steel,2013,Action
+Man of Steel,2013,Adventure
+Man of Steel,2013,Science Fiction
+Thor: The Dark World,2013,Action
+Thor: The Dark World,2013,Adventure
+Thor: The Dark World,2013,Fantasy
+Transformers: Age of Extinction,2014,Science Fiction
+Transformers: Age of Extinction,2014,Action
+Transformers: Age of Extinction,2014,Adventure
+The Hobbit: The Battle of the Five Armies,2014,Action
+The Hobbit: The Battle of the Five Armies,2014,Adventure
+The Hobbit: The Battle of the Five Armies,2014,Fantasy
+Guardians of the Galaxy,2014,Action
+Guardians of the Galaxy,2014,Science Fiction
+Guardians of the Galaxy,2014,Adventure
+Maleficent,2014,Fantasy
+Maleficent,2014,Adventure
+Maleficent,2014,Action
+Maleficent,2014,Family
+Maleficent,2014,Romance
+The Hunger Games: Mockingjay - Part 1,2014,Science Fiction
+The Hunger Games: Mockingjay - Part 1,2014,Adventure
+The Hunger Games: Mockingjay - Part 1,2014,Thriller
+X-Men: Days of Future Past,2014,Action
+X-Men: Days of Future Past,2014,Adventure
+X-Men: Days of Future Past,2014,Science Fiction
+Captain America: The Winter Soldier,2014,Action
+Captain America: The Winter Soldier,2014,Adventure
+Captain America: The Winter Soldier,2014,Science Fiction
+Dawn of the Planet of the Apes,2014,Science Fiction
+Dawn of the Planet of the Apes,2014,Action
+Dawn of the Planet of the Apes,2014,Drama
+Dawn of the Planet of the Apes,2014,Thriller
+The Amazing Spider-Man 2,2014,Action
+The Amazing Spider-Man 2,2014,Adventure
+The Amazing Spider-Man 2,2014,Science Fiction
+Interstellar,2014,Adventure
+Interstellar,2014,Drama
+Interstellar,2014,Science Fiction
+Star Wars: Episode VII - The Force Awakens,2015,Adventure
+Star Wars: Episode VII - The Force Awakens,2015,Action
+Star Wars: Episode VII - The Force Awakens,2015,Science Fiction
+Jurassic World,2015,Action
+Jurassic World,2015,Adventure
+Jurassic World,2015,Science Fiction
+Jurassic World,2015,Thriller
+Furious 7,2015,Action
+Furious 7,2015,Thriller
+Furious 7,2015,Crime
+Avengers: Age of Ultron,2015,Action
+Avengers: Age of Ultron,2015,Adventure
+Avengers: Age of Ultron,2015,Science Fiction
+Minions,2015,Family
+Minions,2015,Animation
+Minions,2015,Adventure
+Minions,2015,Comedy
+Spectre,2015,Action
+Spectre,2015,Adventure
+Spectre,2015,Thriller
+Inside Out,2015,Animation
+Inside Out,2015,Family
+Inside Out,2015,Adventure
+Inside Out,2015,Drama
+Inside Out,2015,Comedy
+Mission: Impossible - Rogue Nation,2015,Action
+Mission: Impossible - Rogue Nation,2015,Adventure
+The Hunger Games: Mockingjay - Part 2,2015,Action
+The Hunger Games: Mockingjay - Part 2,2015,Adventure
+The Hunger Games: Mockingjay - Part 2,2015,Science Fiction
+The Martian,2015,Drama
+The Martian,2015,Adventure
+The Martian,2015,Science Fiction
+Captain America: Civil War,2016,Adventure
+Captain America: Civil War,2016,Action
+Captain America: Civil War,2016,Science Fiction
+Rogue One: A Star Wars Story,2016,Action
+Rogue One: A Star Wars Story,2016,Adventure
+Rogue One: A Star Wars Story,2016,Science Fiction
+Finding Dory,2016,Adventure
+Finding Dory,2016,Animation
+Finding Dory,2016,Comedy
+Finding Dory,2016,Family
+Zootopia,2016,Animation
+Zootopia,2016,Adventure
+Zootopia,2016,Family
+Zootopia,2016,Comedy
+The Jungle Book,2016,Family
+The Jungle Book,2016,Adventure
+The Jungle Book,2016,Drama
+The Jungle Book,2016,Fantasy
+The Secret Life of Pets,2016,Adventure
+The Secret Life of Pets,2016,Comedy
+The Secret Life of Pets,2016,Animation
+The Secret Life of Pets,2016,Family
+Batman v Superman: Dawn of Justice,2016,Action
+Batman v Superman: Dawn of Justice,2016,Adventure
+Batman v Superman: Dawn of Justice,2016,Fantasy
+Fantastic Beasts and Where to Find Them,2016,Fantasy
+Fantastic Beasts and Where to Find Them,2016,Adventure
+Deadpool,2016,Action
+Deadpool,2016,Adventure
+Deadpool,2016,Comedy
+Suicide Squad,2016,Action
+Suicide Squad,2016,Adventure
+Suicide Squad,2016,Fantasy
+Star Wars: Episode VIII - The Last Jedi,2017,Adventure
+Star Wars: Episode VIII - The Last Jedi,2017,Action
+Star Wars: Episode VIII - The Last Jedi,2017,Science Fiction
+Beauty and the Beast,2017,Family
+Beauty and the Beast,2017,Fantasy
+Beauty and the Beast,2017,Romance
+The Fate of the Furious,2017,Action
+The Fate of the Furious,2017,Crime
+The Fate of the Furious,2017,Thriller
+Despicable Me 3,2017,Action
+Despicable Me 3,2017,Animation
+Despicable Me 3,2017,Comedy
+Despicable Me 3,2017,Family
+Despicable Me 3,2017,Adventure
+Jumanji: Welcome to the Jungle,2017,Adventure
+Jumanji: Welcome to the Jungle,2017,Comedy
+Jumanji: Welcome to the Jungle,2017,Fantasy
+Spider-Man: Homecoming,2017,Action
+Spider-Man: Homecoming,2017,Adventure
+Spider-Man: Homecoming,2017,Science Fiction
+Spider-Man: Homecoming,2017,Drama
+Wolf Warrior 2,2017,War
+Wolf Warrior 2,2017,Action
+Wolf Warrior 2,2017,Thriller
+Guardians of the Galaxy Vol. 2,2017,Science Fiction
+Guardians of the Galaxy Vol. 2,2017,Adventure
+Guardians of the Galaxy Vol. 2,2017,Action
+Thor: Ragnarok,2017,Action
+Thor: Ragnarok,2017,Adventure
+Thor: Ragnarok,2017,Science Fiction
+Wonder Woman,2017,Action
+Wonder Woman,2017,Adventure
+Wonder Woman,2017,Fantasy
+Avengers: Infinity War,2018,Adventure
+Avengers: Infinity War,2018,Action
+Avengers: Infinity War,2018,Science Fiction
+Black Panther,2018,Action
+Black Panther,2018,Adventure
+Black Panther,2018,Science Fiction
+Jurassic World: Fallen Kingdom,2018,Action
+Jurassic World: Fallen Kingdom,2018,Adventure
+Jurassic World: Fallen Kingdom,2018,Science Fiction
+Jurassic World: Fallen Kingdom,2018,Thriller
+Incredibles 2,2018,Action
+Incredibles 2,2018,Adventure
+Incredibles 2,2018,Animation
+Incredibles 2,2018,Family
+Aquaman,2018,Action
+Aquaman,2018,Adventure
+Aquaman,2018,Fantasy
+Bohemian Rhapsody,2018,Music
+Bohemian Rhapsody,2018,Drama
+Venom,2018,Science Fiction
+Venom,2018,Action
+Mission: Impossible - Fallout,2018,Action
+Mission: Impossible - Fallout,2018,Adventure
+Deadpool 2,2018,Action
+Deadpool 2,2018,Comedy
+Deadpool 2,2018,Adventure
+Fantastic Beasts: The Crimes of Grindelwald,2018,Fantasy
+Fantastic Beasts: The Crimes of Grindelwald,2018,Adventure
+Avengers: Endgame,2019,Adventure
+Avengers: Endgame,2019,Science Fiction
+Avengers: Endgame,2019,Action
+The Lion King,2019,Adventure
+The Lion King,2019,Drama
+The Lion King,2019,Family
+The Lion King,2019,Animation
+Frozen II,2019,Family
+Frozen II,2019,Animation
+Frozen II,2019,Adventure
+Frozen II,2019,Comedy
+Frozen II,2019,Fantasy
+Spider-Man: Far from Home,2019,Action
+Spider-Man: Far from Home,2019,Adventure
+Spider-Man: Far from Home,2019,Science Fiction
+Captain Marvel,2019,Action
+Captain Marvel,2019,Adventure
+Captain Marvel,2019,Science Fiction
+Joker,2019,Crime
+Joker,2019,Thriller
+Joker,2019,Drama
+Star Wars: Episode IX - The Rise of Skywalker,2019,Adventure
+Star Wars: Episode IX - The Rise of Skywalker,2019,Action
+Star Wars: Episode IX - The Rise of Skywalker,2019,Science Fiction
+Toy Story 4,2019,Family
+Toy Story 4,2019,Adventure
+Toy Story 4,2019,Animation
+Toy Story 4,2019,Comedy
+Toy Story 4,2019,Fantasy
+Aladdin,2019,Adventure
+Aladdin,2019,Fantasy
+Aladdin,2019,Romance
+Aladdin,2019,Family
+Jumanji: The Next Level,2019,Adventure
+Jumanji: The Next Level,2019,Comedy
+Jumanji: The Next Level,2019,Fantasy
+Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020,Animation
+Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020,Action
+Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020,Fantasy
+Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020,Thriller
+The Eight Hundred,2020,War
+The Eight Hundred,2020,History
+The Eight Hundred,2020,Drama
+The Eight Hundred,2020,Action
+Bad Boys for Life,2020,Thriller
+Bad Boys for Life,2020,Action
+Bad Boys for Life,2020,Crime
+"My People, My Homeland",2020,Drama
+"My People, My Homeland",2020,Comedy
+Tenet,2020,Action
+Tenet,2020,Thriller
+Tenet,2020,Science Fiction
+Sonic the Hedgehog,2020,Action
+Sonic the Hedgehog,2020,Science Fiction
+Sonic the Hedgehog,2020,Comedy
+Sonic the Hedgehog,2020,Family
+Dolittle,2020,Family
+Dolittle,2020,Comedy
+Dolittle,2020,Fantasy
+Dolittle,2020,Adventure
+Jiang Ziya,2020,Animation
+Jiang Ziya,2020,Action
+Jiang Ziya,2020,Fantasy
+Jiang Ziya,2020,Adventure
+A Little Red Flower,2020,Drama
+A Little Red Flower,2020,Family
+The Croods: A New Age,2020,Animation
+The Croods: A New Age,2020,Family
+The Croods: A New Age,2020,Adventure
+The Croods: A New Age,2020,Fantasy
+The Croods: A New Age,2020,Comedy
+Spider-Man: No Way Home,2021,Action
+Spider-Man: No Way Home,2021,Adventure
+Spider-Man: No Way Home,2021,Science Fiction
+The Battle at Lake Changjin,2021,Drama
+The Battle at Lake Changjin,2021,War
+"Hi, Mom",2021,Drama
+"Hi, Mom",2021,Comedy
+"Hi, Mom",2021,Fantasy
+No Time to Die,2021,Action
+No Time to Die,2021,Thriller
+No Time to Die,2021,Adventure
+F9: The Fast Saga,2021,Action
+F9: The Fast Saga,2021,Adventure
+F9: The Fast Saga,2021,Crime
+Detective Chinatown 3,2021,Action
+Detective Chinatown 3,2021,Comedy
+Detective Chinatown 3,2021,Mystery
+Venom: Let There Be Carnage,2021,Science Fiction
+Venom: Let There Be Carnage,2021,Action
+Venom: Let There Be Carnage,2021,Adventure
+Godzilla vs. Kong,2021,Action
+Godzilla vs. Kong,2021,Science Fiction
+Godzilla vs. Kong,2021,Adventure
+Shang-Chi and the Legend of the Ten Rings,2021,Action
+Shang-Chi and the Legend of the Ten Rings,2021,Adventure
+Shang-Chi and the Legend of the Ten Rings,2021,Fantasy
+Sing 2,2021,Animation
+Sing 2,2021,Family
+Sing 2,2021,Music
+Sing 2,2021,Comedy
+Avatar: The Way of Water,2022,Science Fiction
+Avatar: The Way of Water,2022,Adventure
+Avatar: The Way of Water,2022,Action
+Top Gun: Maverick,2022,Action
+Top Gun: Maverick,2022,Drama
+Jurassic World Dominion,2022,Adventure
+Jurassic World Dominion,2022,Action
+Jurassic World Dominion,2022,Science Fiction
+Doctor Strange in the Multiverse of Madness,2022,Fantasy
+Doctor Strange in the Multiverse of Madness,2022,Action
+Doctor Strange in the Multiverse of Madness,2022,Adventure
+Minions: The Rise of Gru,2022,Animation
+Minions: The Rise of Gru,2022,Comedy
+Minions: The Rise of Gru,2022,Family
+Minions: The Rise of Gru,2022,Adventure
+Black Panther: Wakanda Forever,2022,Action
+Black Panther: Wakanda Forever,2022,Adventure
+Black Panther: Wakanda Forever,2022,Science Fiction
+The Batman,2022,Crime
+The Batman,2022,Mystery
+The Batman,2022,Thriller
+Thor: Love and Thunder,2022,Fantasy
+Thor: Love and Thunder,2022,Action
+Thor: Love and Thunder,2022,Comedy
+Water Gate Bridge,2022,War
+Water Gate Bridge,2022,History
+Water Gate Bridge,2022,Action
+Water Gate Bridge,2022,Drama
+Puss in Boots: The Last Wish,2022,Animation
+Puss in Boots: The Last Wish,2022,Adventure
+Puss in Boots: The Last Wish,2022,Fantasy
+Puss in Boots: The Last Wish,2022,Comedy
+Puss in Boots: The Last Wish,2022,Family
+Barbie,2023,Comedy
+Barbie,2023,Adventure
+The Super Mario Bros. Movie,2023,Animation
+The Super Mario Bros. Movie,2023,Family
+The Super Mario Bros. Movie,2023,Adventure
+The Super Mario Bros. Movie,2023,Fantasy
+The Super Mario Bros. Movie,2023,Comedy
+Oppenheimer,2023,Drama
+Oppenheimer,2023,History
+Guardians of the Galaxy Vol. 3,2023,Science Fiction
+Guardians of the Galaxy Vol. 3,2023,Adventure
+Guardians of the Galaxy Vol. 3,2023,Action
+Fast X,2023,Action
+Fast X,2023,Crime
+Fast X,2023,Thriller
+Spider-Man: Across the Spider-Verse,2023,Animation
+Spider-Man: Across the Spider-Verse,2023,Action
+Spider-Man: Across the Spider-Verse,2023,Adventure
+Spider-Man: Across the Spider-Verse,2023,Science Fiction
+Full River Red,2023,Mystery
+Full River Red,2023,Comedy
+Full River Red,2023,Thriller
+Full River Red,2023,History
+Wonka,2023,Comedy
+Wonka,2023,Family
+Wonka,2023,Fantasy
+The Wandering Earth II,2023,Science Fiction
+Mission: Impossible - Dead Reckoning Part One,2023,Action
+Mission: Impossible - Dead Reckoning Part One,2023,Adventure
+Inside Out 2,2024,Animation
+Inside Out 2,2024,Adventure
+Inside Out 2,2024,Comedy
+Inside Out 2,2024,Family
+Deadpool & Wolverine,2024,Action
+Deadpool & Wolverine,2024,Comedy
+Deadpool & Wolverine,2024,Science Fiction
+Despicable Me 4,2024,Animation
+Despicable Me 4,2024,Family
+Despicable Me 4,2024,Comedy
+Despicable Me 4,2024,Science Fiction
+Moana 2,2024,Animation
+Moana 2,2024,Adventure
+Moana 2,2024,Family
+Moana 2,2024,Comedy
+Dune: Part Two,2024,Science Fiction
+Dune: Part Two,2024,Adventure
+Wicked,2024,Drama
+Wicked,2024,Romance
+Wicked,2024,Fantasy
+Godzilla x Kong: The New Empire,2024,Action
+Godzilla x Kong: The New Empire,2024,Adventure
+Godzilla x Kong: The New Empire,2024,Science Fiction
+Kung Fu Panda 4,2024,Animation
+Kung Fu Panda 4,2024,Family
+Kung Fu Panda 4,2024,Fantasy
+Kung Fu Panda 4,2024,Action
+Venom: The Last Dance,2024,Action
+Venom: The Last Dance,2024,Science Fiction
+Venom: The Last Dance,2024,Adventure
+Venom: The Last Dance,2024,Thriller
+Beetlejuice Beetlejuice,2024,Comedy
+Beetlejuice Beetlejuice,2024,Fantasy
+Beetlejuice Beetlejuice,2024,Horror
