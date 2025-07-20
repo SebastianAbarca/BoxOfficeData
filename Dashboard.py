@@ -1,12 +1,13 @@
 import streamlit as st
-import streamlit.components.v1 as components
 import pandas as pd
 import plotly.express as px
+from util import graphs, clustering
+
 
 st.markdown("""
             <style>
             .stApp{
-                background-color: #000000; /*Stratos*/
+                background-color: #000926; 
                 color: #FFFFFF; /* Default text color for the whole app */
             }
             /* Styling for the H1 Title */
@@ -102,7 +103,6 @@ Title_container = st.container()
 Total_BO_container = st.container()
 YoY_Growth_container = st.container()
 Charts_container = st.container()
-
 # --- Filters (Chart filters remain in sidebar) ---
 latest_year = df_yearly_totals['Year'].max()
 all_years = df_yearly_totals['Year'].unique()
@@ -111,7 +111,6 @@ all_years = df_yearly_totals['Year'].unique()
 with Title_container:
     st.title("🎬 25-Year Global Box Office Insights")
     st.markdown("---") # Visual separator
-
 with Total_BO_container:
     st.header("Total Box Office (All-Time)") # More descriptive header
     WwCol, DomCol, ForCol = st.columns(3)
@@ -140,11 +139,6 @@ with Total_BO_container:
         )
         # Adding a placeholder to balance the 2x3 grid
         st.metric(label="", value="") # Empty label and value
-
-st.markdown("---") # Visual separator
-
-
-
 with YoY_Growth_container:
     selected_year_for_kpis = st.selectbox(
         "Select Year for YoY Growth Metrics:",
@@ -203,9 +197,6 @@ with YoY_Growth_container:
             delta=f"{delta_val:.1f}% (vs. prev YoY)" if delta_val is not None else None,
             delta_color=delta_color
         )
-
-st.markdown("---") # Visual separator
-
 with Charts_container:
     st.header("Key Trends & Insights")
 
@@ -220,23 +211,22 @@ with Charts_container:
         (df_yearly_totals['Year'] >= year_range[0]) & (df_yearly_totals['Year'] <= year_range[1])]
     df_final_filtered_charts = df_final[(df_final['Year'] >= year_range[0]) & (df_final['Year'] <= year_range[1])]
 
-    # --- Chart 1: Top 5 movies last 2 years ---
-    st.subheader("Top 5 Movies (Last 2 Years)")
-    latest_chart_year = df_final_filtered_charts['Year'].max() # Use filtered data
-    df_recent_movies = df_final_filtered_charts[df_final_filtered_charts['Year'] >= (latest_chart_year - 1)].copy() # Last 2 years from filtered range
+    # --- Chart 1: Top 10 movies year_range ---
+    st.subheader(f"Top 10 Movies ({year_range[0]} to {year_range[1]})")
+    df_recent_movies = df_final_filtered_charts.copy()
 
     df_recent_movies_agg = df_recent_movies.groupby('Movie').agg(
         Worldwide_Total=('Worldwide_Corrected', 'sum')
     ).reset_index()
 
-    df_top_5_movies = df_recent_movies_agg.nlargest(5, 'Worldwide_Total')
+    df_top_10_movies = df_recent_movies_agg.nlargest(10, 'Worldwide_Total')
 
     fig_top_movies = px.bar(
-        df_top_5_movies,
+        df_top_10_movies,
         x='Worldwide_Total',
         y='Movie',
         orientation='h',
-        title=f"Top 5 Movies by Worldwide Box Office ({latest_chart_year-1}-{latest_chart_year})",
+        title=f"Top 10 Movies by Worldwide Box Office ({year_range[0]}-{year_range[1]})",
         labels={'Worldwide_Total': 'Worldwide Box Office ($)', 'Movie': 'Movie Title'},
         color='Worldwide_Total', # Color by value
         color_continuous_scale=px.colors.sequential.Inferno # Use a nice color scale
@@ -248,7 +238,7 @@ with Charts_container:
     st.markdown("---")
 
     # --- Chart 2: Genre Market Share last 5 years ---
-    st.subheader("Genre Market Share (Last 5 Years)")
+    st.subheader("Genre Market Share")
 
     five_years_ago_chart = max(df_final_filtered_charts['Year'].min(), df_final_filtered_charts['Year'].max() - 4)
     df_genre_filtered = df_final_filtered_charts[(df_final_filtered_charts['Year'] >= five_years_ago_chart)].copy()
@@ -259,7 +249,7 @@ with Charts_container:
 
 
     genre_yearly_totals_chart = df_exploded_genres.groupby(['Year', 'Genres']).agg(
-        Total_Worldwide=('Worldwide_Corrected', 'sum')
+        Total_Worldwide=('Worldwide_Original', 'sum')
     ).reset_index()
 
     total_worldwide_per_year_chart = genre_yearly_totals_chart.groupby('Year')['Total_Worldwide'].sum().reset_index()
@@ -287,5 +277,9 @@ with Charts_container:
     fig_genre_share.update_xaxes(dtick=1)
     st.plotly_chart(fig_genre_share, use_container_width=True)
 
-st.markdown("---")
-st.caption("Data Source: Box Office Mojo, The World Bank, Kaggle | Analysis by Your Name")
+    st.subheader("Genre/Box Office Heatmap :fire:")
+    freq_matrix, avg_bo_matrix, mask = graphs.compute_genre_cooccurrence_bo(df_final_filtered_charts)
+    fig_heatmap = graphs.plot_heatmap_with_annotations(avg_bo_matrix, freq_matrix, mask)
+    st.plotly_chart(fig_heatmap, use_container_width=True)
+
+st.caption("Data Source: Box Office Mojo, The World Bank, Kaggle | Dashboard by Sebastian Abarca")
